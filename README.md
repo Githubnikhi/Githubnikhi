@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT companies 
 - 📫 How to reach me: nikhilnikki204@gmail.com
 - ⚡ Fun fact: I am a Cinephile(Movie freak)
-<h3 align="left">Connect with me:</h3> https://www.instagram.com/guts__01/
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
