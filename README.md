@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Githubnikhi(NIKHIL H S)
 - 👀 I’m interested in IT jobs as a Developer
 - 🌱 I’m currently learning JAVA full stack web development, MySQL
-- 💞️ I’m looking to collaborate on IT companies 
+- 💞️ I’m looking to collaborate with IT companies 
 - 📫 How to reach me: nikhilnikki204@gmail.com
 - ⚡ Fun fact: I am a Cinephile(Movie freak)
 <h3 align="left">Connect with me:</h3>
